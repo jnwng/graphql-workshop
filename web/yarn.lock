@@ -2445,7 +2445,7 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9:
 
 graphql-anywhere@^3.0.0, graphql-anywhere@^3.0.1:
   version "3.0.1"
-  resolved "git+ssh://git@github.com/jnwng/graphql-anywhere#44415f1320f135333af6f35f2c81783aa070db13"
+  resolved "https://registry.yarnpkg.com/graphql-anywhere/-/graphql-anywhere-3.0.1.tgz#73531db861174c8f212eafb9f8e84944b38b4e5a"
 
 graphql-tag@^1.3.1:
   version "1.3.2"
