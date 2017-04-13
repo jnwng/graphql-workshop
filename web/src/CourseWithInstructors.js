@@ -8,7 +8,7 @@ import {
   mapProps
 } from "recompose";
 
-import { withFragments } from "@coursera/graphql-utils";
+import { withFragments } from "./withFragments";
 
 const renderErrors = ({ data: { error } }) => (
   <p>{JSON.stringify(error, null, 2)}</p>

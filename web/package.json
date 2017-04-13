@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@coursera/graphql-utils": "^0.0.0",
     "react": "^15.5.4",
     "react-apollo": "^1.0.1",
     "react-dom": "^15.5.4",
