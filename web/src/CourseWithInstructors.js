@@ -8,7 +8,7 @@ import {
   mapProps
 } from "recompose";
 
-import { withFragments } from "./withFragments";
+const withFragments = require("./withFragments");
 
 const renderErrors = ({ data: { error } }) => (
   <p>{JSON.stringify(error, null, 2)}</p>
