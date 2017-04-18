@@ -14,7 +14,7 @@ import "./App.css";
 
 const client = new ApolloClient({
   networkInterface: createNetworkInterface({
-    uri: "http://mock.dev-coursera.org:3000/graphql"
+    uri: "/graphql"
   })
 });
 
